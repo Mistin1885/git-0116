@@ -36,4 +36,7 @@ def hello():
 hello()
 ```
 ---
+
 ![](./cat.png)
+
+[Go to h1](#h1)
