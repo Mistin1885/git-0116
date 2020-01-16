@@ -28,3 +28,10 @@ HelloWorld
 HelloWorld
 HelloWorld
 ```
+
+```python
+def hello():
+    print("HelloWorld")
+
+hello()
+```
