@@ -40,3 +40,5 @@ hello()
 ![](./cat.png)
 
 [Go to h1](#h1)
+
+[Go to page A](./a.md)
